@@ -1,0 +1,15 @@
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csprojAssemblyReference.cache
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.MainHome.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.Properties.Resources.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.GenerateResource.cache
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.AddItem.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.DisplayItems.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.RestockItem.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.RemoveItemForm.resources
+C:\Users\MrJW3\source\repos\InventoryManager\InventoryManager\obj\Debug\InventoryManager.SearchForItem.resources
