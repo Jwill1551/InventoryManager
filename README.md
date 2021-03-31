@@ -16,6 +16,7 @@ This project was created using the following technologies and software:
 
 ## Examples / References
 Below is an example of my project being used: 
+
 ![InventoryManager](https://github.com/Jwill1551/GitFiles/blob/main/Images/InventoryManager/InventoryMenu.png?raw=true)
 ![InventoryManager-Add](https://github.com/Jwill1551/GitFiles/blob/main/Images/InventoryManager/InventoryMenu-AddItem.png?raw=true)
 
